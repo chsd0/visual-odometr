@@ -79,3 +79,9 @@ pip install -r requirements.txt
 python algorithm.py
 python visualization.py
 ```
+
+---
+
+## Пример результата работы алгоритма
+
+<img width="799" height="779" alt="visualization" src="https://github.com/user-attachments/assets/d26b28ed-301f-4e80-a271-b13a168198ae" />
